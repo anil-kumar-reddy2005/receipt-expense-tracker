@@ -1,0 +1,28 @@
+# Streamlit Secrets
+.streamlit/secrets.toml
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Database
+*.db
+*.sqlite3
+
+# Uploaded Files & Temporary Outputs
+test_expenses.db
+*.pdf
+scratch/
+
+# OS / Editor Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
